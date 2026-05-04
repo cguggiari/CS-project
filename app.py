@@ -1,8 +1,4 @@
-import streamlit as st 
 
-st.write('Yeay, we connected everything')
-st.write('celine is a ABBUZZICONA')
-st.write('love clarissa')
 import streamlit as st
 import requests
 import plotly.graph_objects as go
@@ -502,5 +498,4 @@ for col, label, value, sub in [
       <p class="metric-sub">{sub}</p>
     </div>
     """, unsafe_allow_html=True)
-import numpy as np
 
